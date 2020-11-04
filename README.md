@@ -4,8 +4,15 @@ Learning Julia
 
 # Goals
 
-1. Multi-linear interpolator
-2. c interface example
-3. fortran interface example
-4. standalone executable example
-5. UDP network packet example
+- [ ] Linear interpolator 1d
+- [ ] Linear interpolator 2d
+- [ ] Multi-linear interpolator
+- [ ] c interface example
+- [ ] fortran interface example
+- [ ] standalone executable example
+- [ ] UDP network packet example
+- [ ] benchmark against python/numba interpolator instance
+- [ ] callable function in Matlab
+- [ ] 6dof EOM without the X-Z plane symmetry assumption
+- [ ] benchmarch 6dof EOM against PyFME
+
