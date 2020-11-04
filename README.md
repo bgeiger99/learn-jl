@@ -17,4 +17,5 @@ Learning Julia
 - [ ] benchmarch 6dof EOM against PyFME
 
 # Resources
-
+https://julialang.github.io/PackageCompiler.jl/dev/devdocs/binaries_part_2/
+https://towardsdatascience.com/creating-my-first-julia-executable-53e0f6bd0db5
