@@ -16,3 +16,5 @@ Learning Julia
 - [ ] 6dof EOM without the X-Z plane symmetry assumption
 - [ ] benchmarch 6dof EOM against PyFME
 
+# Resources
+
